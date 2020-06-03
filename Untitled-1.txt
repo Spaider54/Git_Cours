@@ -1,0 +1,6 @@
+git clone url : for getting the repositery 
+git status : get me the infoermation about the directory where i work
+git add . : for adding directory to the githup
+if you want to remove some file from statge irya :
+=>> git reset head <file-name> OR git rm <file>
+git rm -f Untitled-1.txt : for remove the file 
