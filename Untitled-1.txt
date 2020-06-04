@@ -11,3 +11,5 @@ git push origin master
 git config --global user.name "Walid Menghour"
 
 git pull origin 
+git config -l : show you all the configiration 
+git help config : show you the manuel that you see any thing about configuration 
