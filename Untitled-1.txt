@@ -10,3 +10,4 @@ git remote -v
 git push origin master
 git config --global user.name "Walid Menghour"
 
+git pull origin 
